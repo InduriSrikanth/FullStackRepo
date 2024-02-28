@@ -15,7 +15,7 @@ public class ArithmeticOperations {
 		// TODO Auto-generated method stub
 		
 		ArithmeticOperations ar=new ArithmeticOperations();
-		int z= ar.sum(15, 20);//venkatsai123
+		int z= ar.sum(15, 50);//venkatsai123
 		int s=ar.sub(50, 40);
 		int c=ar.mul(15, 5);
 		System.out.println(c);
