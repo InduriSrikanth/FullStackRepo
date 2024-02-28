@@ -7,5 +7,7 @@ public class PaymentOperations {
 	public String creditCardPayment() {
 		return "payment failed";
 	}
-
+    public String UpiPayment() {
+    	return "Upi payment is not allowed";
+    }
 }
